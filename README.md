@@ -31,11 +31,5 @@ I'm a Python Developer 🐍 passionate about building efficient and scalable sol
 <br>
 <br>
 
-### 📊 Github Stats
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=omarmanfy75&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmanfy75&layout=compact&theme=radical)
-
-<br>
-
 ### 🛠️ My Projects
 Check out my repositories on [GitHub](https://github.com/omarmanfy75?tab=repositories) to see what I'm building!
